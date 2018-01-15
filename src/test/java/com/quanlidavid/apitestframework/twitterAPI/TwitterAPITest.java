@@ -1,8 +1,8 @@
-package com.quanlidavid.apitestframework;
+package com.quanlidavid.apitestframework.twitterAPI;
 
 import org.testng.annotations.Test;
 
-public class SeleniumTest {
+public class TwitterAPITest {
 
 	@Test
 	public void BrowserAutomation() {

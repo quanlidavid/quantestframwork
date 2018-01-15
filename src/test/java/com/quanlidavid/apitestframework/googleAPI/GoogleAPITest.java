@@ -1,8 +1,8 @@
-package com.quanlidavid.apitestframework;
+package com.quanlidavid.apitestframework.googleAPI;
 
 import org.testng.annotations.Test;
 
-public class AppiumTest {
+public class GoogleAPITest {
 
 	@Test
 	public void nativeAppAndroid() {

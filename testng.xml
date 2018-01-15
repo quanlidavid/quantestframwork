@@ -3,7 +3,7 @@
 <suite name="Suite" parallel="methods">
   <test thread-count="5" name="Test" parallel="methods">
     <classes>
-      <class name="com.quanlidavid.apitestframework.SeleniumTest"/>
+      <class name="com.quanlidavid.apitestframework.jiraAPI.RestAPITest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
