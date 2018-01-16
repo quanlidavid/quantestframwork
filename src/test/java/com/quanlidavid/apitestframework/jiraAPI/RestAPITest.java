@@ -36,7 +36,7 @@ public class RestAPITest {
 		//prop.load(this.getClass().getClassLoader().getResourceAsStream("jira.properties"));
 		
 		//第三种方法
-		FileInputStream fis = new FileInputStream(System.getProperty("user.dir") + "\\jira.properties");
+		FileInputStream fis = new FileInputStream(System.getProperty("user.dir") + "/jira.properties");
 		prop.load(fis);
 	}
 
